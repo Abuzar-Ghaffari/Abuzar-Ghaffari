@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_PHOTO_URL" width="180" style="border-radius:50%;" />
+<img src="https://github.com/Abuzar-Ghaffari/portfolio/blob/main/assets/profile.jpeg" width="180" style="border-radius:50%;" />
 
 # 👋 Hi, I'm Abuzar Ghaffari
 
@@ -14,11 +14,11 @@
 
 <p>
 
-<a href="mailto:gabuzarg312@gmail.com">
+<a href="mailto:gabuzar912@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Abuzar-Ghaffari">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://agwebsolutions.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
@@ -108,36 +108,11 @@ I specialize in developing responsive, scalable and user-friendly web applicatio
 Modern Animated Personal Portfolio
 
 Tech:
-HTML • CSS • JavaScript • Bootstrap
+HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • GSAP
 
 ---
 
-## 🏗 BuilderWing Marketplace
 
-Marketplace with Admin Panel
-
-Tech:
-PHP • MySQL • jQuery • Bootstrap
-
----
-
-## 🚗 UK Insurance Platform
-
-Insurance Quote & Management System
-
-Tech:
-PHP • MySQL • JavaScript
-
----
-
-## 💼 Admin Dashboard
-
-Professional Admin Management System
-
-Tech:
-PHP • Bootstrap • MySQL
-
----
 
 ## 📱 React Projects
 
@@ -152,9 +127,9 @@ React • Next.js
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abuzar-Ghaffari&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abuzar-Ghaffari&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -164,7 +139,7 @@ React • Next.js
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Abuzar-Ghaffari&theme=tokyonight"/>
 
 </p>
 
@@ -174,7 +149,7 @@ React • Next.js
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abuzar-Ghaffari&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -184,7 +159,7 @@ React • Next.js
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abuzar-Ghaffari&theme=tokyo-night"/>
 
 </p>
 
@@ -193,9 +168,7 @@ React • Next.js
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/Abuzar-Ghaffari/Abuzar-Ghaffari/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -205,17 +178,17 @@ React • Next.js
 <p>
 
 📧 Email:
-<strong>gabuzarg312@gmail.com</strong>
+<strong>gabuzar912@gmail.com</strong>
 
 📍 Lahore, Pakistan
 
 💼 Available for Freelance
 
 🌐 Portfolio:
-https://YOUR_PORTFOLIO
+https://agwebsolutions.vercel.app/
 
 💼 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
+ <a href="https://www.linkedin.com/in/abuzar-ghaffari-5ab98b347?utm_source=share_via&utm_content=profile&utm_medium=member_android"> Linkedin Profile </a>
 
 </p>
 
